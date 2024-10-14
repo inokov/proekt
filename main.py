@@ -4,7 +4,7 @@ from python import AdminPhotoHandler
 
 # Replace with your bot token and admin's chat ID
 BOT_TOKEN = ""
-ADMIN_ID = -649102715
+ADMIN_ID = ""
 
 # Create an instance of the AdminPhotoHandler class
 admin_handler = AdminPhotoHandler(BOT_TOKEN, ADMIN_ID)
