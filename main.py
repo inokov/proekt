@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters
 from python import AdminPhotoHandler
 
 # Replace with your bot token and admin's chat ID
-BOT_TOKEN = "7369081088:AAH81m9rg-UX_eqQ93Qxls3ib0T-dv8nXBA"
+BOT_TOKEN = ""
 ADMIN_ID = -649102715
 
 # Create an instance of the AdminPhotoHandler class
